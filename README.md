@@ -27,7 +27,7 @@
 
 ## SW SETTINGS
 
-- Download the necessary files on a Directory in the Raspberry Pi (e.g. in the Desktop folder as "Desktop/Bravo_Project")
+- Download the necessary files on a Directory in the host PC (e.g. in the Desktop folder as "Desktop/Bravo_Project")
 
     - Bravo_arduino.ino
 
